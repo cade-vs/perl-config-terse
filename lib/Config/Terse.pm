@@ -162,7 +162,7 @@ plus sign and name after the section name:
 
   =newsection  +othersection1  +othersection2  ...
 
-Sections may be grouped in groupss. Group names are specified with "at" sign (@)
+Sections may be grouped. Group names are specified with "at" sign (@)
 followed by the group name, after the section name:
 
   =apple  @fruits

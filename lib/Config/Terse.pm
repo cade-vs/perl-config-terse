@@ -170,7 +170,7 @@ followed by the group name, after the section name:
 Inheritance and groups can be combined but order is important! All inherited
 sections specified before group is taken from the main (root) sections.
 Inherited sections after group name is taken from the same group (if such
-exists. 
+exists). 
 
 Sections can be added to multiple groups. They will be linked together and
 changing one section key will be visible in the other groups.
